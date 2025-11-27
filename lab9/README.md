@@ -22,3 +22,5 @@ Directoryy for lab 9
 <img width="860" height="459" alt="image" src="https://github.com/user-attachments/assets/86a33519-9cc1-4088-aab4-590f71bfd19a" />
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 <img width="775" height="382" alt="image" src="https://github.com/user-attachments/assets/68b9955a-6beb-40ab-97e0-3697750bec17" />
+++++++++++++++++++++++++++++++++++++++++++++++++++
+<img width="772" height="403" alt="image" src="https://github.com/user-attachments/assets/bb486192-ae3c-43e3-b02b-87347aff7035" />
