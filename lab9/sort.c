@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// comment for lab9
 void swap(int* arr, int i, int j) {
     int temp = arr[i];
     arr[i] = arr[j];
