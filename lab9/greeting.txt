@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello
-=======
 HELLO
->>>>>>> feature/uppercase
