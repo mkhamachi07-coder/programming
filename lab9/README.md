@@ -83,5 +83,24 @@ NA 4
 <img width="1091" height="418" alt="image" src="https://github.com/user-attachments/assets/ad40752d-3c52-43b1-b0f1-4f03670f80fd" />
 
 
+На 5
+1
+<img width="738" height="542" alt="image" src="https://github.com/user-attachments/assets/47bac025-dbcd-49e8-accc-241f4ac8189e" />
+2
+<img width="740" height="479" alt="image" src="https://github.com/user-attachments/assets/e4ef47ce-c0f4-4593-9f1b-876a81a66213" />
+3
+<img width="608" height="255" alt="image" src="https://github.com/user-attachments/assets/fb8fd943-c4a4-4148-b5ad-a11ed7aa77ae" />
+4
+<img width="746" height="473" alt="image" src="https://github.com/user-attachments/assets/b41a3861-a762-4eb2-bb7a-171218988f44" />
+5
+<img width="740" height="421" alt="image" src="https://github.com/user-attachments/assets/004f20c5-8a6c-4ff4-956b-7616d56ad446" />
+6
+<img width="751" height="481" alt="image" src="https://github.com/user-attachments/assets/104d8e54-86cf-4fb5-a796-8baf5b2bd13a" />
+7
+<img width="654" height="200" alt="image" src="https://github.com/user-attachments/assets/070ce076-de0c-40ff-996e-539428088036" />
+8
+<img width="753" height="469" alt="image" src="https://github.com/user-attachments/assets/963add28-f5e5-4129-8f3a-fa2e9bf95356" />
+9
 
+<img width="695" height="268" alt="image" src="https://github.com/user-attachments/assets/e08135fc-e1bb-4d24-99da-189258d23aa9" />
 
