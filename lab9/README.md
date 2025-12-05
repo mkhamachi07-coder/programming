@@ -39,3 +39,49 @@ git log выглядит следующим образом. HEAD указыва�
 так как текстовый док со скринами у меня уже на удаленном репо - пуллим изменения, чтобы он оказался и на локальном репо в ветке main. Далее пушим сначало ветку mybranch а потом и main
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 <img width="772" height="403" alt="image" src="https://github.com/user-attachments/assets/bb486192-ae3c-43e3-b02b-87347aff7035" />
+NA 4
+
+<img width="716" height="645" alt="image" src="https://github.com/user-attachments/assets/10da72d5-8735-4638-b4e0-ef8dc55d8961" />
+
+
+<img width="637" height="575" alt="image" src="https://github.com/user-attachments/assets/4195f42b-4d9c-4d37-aed7-5635b2643485" />
+
+
+<img width="724" height="305" alt="image" src="https://github.com/user-attachments/assets/be95e56e-48f9-469e-b9ed-a37480776271" />
+
+
+
+<img width="412" height="262" alt="image" src="https://github.com/user-attachments/assets/4f4c084b-1253-40c4-9808-cb147007d942" />
+
+<img width="740" height="243" alt="image" src="https://github.com/user-attachments/assets/6915fc08-352e-4e2c-91a8-730011e6b048" />
+
+
+<img width="502" height="241" alt="image" src="https://github.com/user-attachments/assets/ff1f1a9b-864f-4244-8e5b-7e85d63e941c" />
+
+
+
+<img width="795" height="461" alt="image" src="https://github.com/user-attachments/assets/510ce4a1-3d1b-4f02-b7fe-3073a5ec39b1" />
+
+
+<img width="882" height="575" alt="image" src="https://github.com/user-attachments/assets/44c5afdd-83ec-4380-96a2-7d43d3ebda85" />
+
+
+
+<img width="1091" height="495" alt="image" src="https://github.com/user-attachments/assets/ad4c9d91-5ceb-4023-9ff8-b774a29616d3" />
+
+
+
+<img width="704" height="324" alt="image" src="https://github.com/user-attachments/assets/6e3be331-5a1a-43d6-ab16-ce1167e81f64" />
+
+
+<img width="731" height="392" alt="image" src="https://github.com/user-attachments/assets/cddb95e2-5e3d-4969-85c5-318729115402" />
+
+
+<img width="725" height="290" alt="image" src="https://github.com/user-attachments/assets/30091d61-32d6-4b0e-b021-99c02284bb90" />
+
+
+<img width="1091" height="418" alt="image" src="https://github.com/user-attachments/assets/ad40752d-3c52-43b1-b0f1-4f03670f80fd" />
+
+
+
+
