@@ -4,3 +4,5 @@
 <h3 align="center">Computer science student, from SibSUTIS 🇷🇺</h3>
 
 Эта директория создана для хранения лабораторных работ по программированию на языке ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+![](https://komarev.com/ghpvc/?username=mkhamachi07-coder)
